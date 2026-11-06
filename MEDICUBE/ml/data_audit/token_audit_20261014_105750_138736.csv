@@ -1,0 +1,3 @@
+tokenId,createdAt,consultationStartTime,consultationEndTime,waitingTime,consultationDuration,auditStatus,auditReason,recordType,trainingEligible
+6accae23909b759631e7c95f,2026-10-12 09:53:39.055,2026-10-13 05:28:16.408,2026-10-13 05:31:41.446,1174.62255,3.4173,REVIEW,Waiting time exceeds review threshold,TEST,False
+6acdcc4b619a50092dca0ae5,2026-10-13 06:14:35.964,2026-10-13 06:20:19.833,2026-10-13 06:29:50.768,5.73115,9.515583333333332,VALID,,TEST,False

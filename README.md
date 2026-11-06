@@ -106,25 +106,25 @@ MediCube aims to make hospital queue management more organized, transparent and 
 ## Project Screenshots
 
 ### 1. Analytics Dashboard
-![Analytics Dashboard](screenshots/Analytics%20Dashboard.png)
+![Analytics Dashboard](MEDICUBE/screenshots/Analytics%20Dashboard.png)
 
 ### 2. Common Waiting Hall – Proceeding to Consult
-![Common Waiting Hall Proceeding to Consult](screenshots/Common%20waiting%20hall%20proceeding%20to%20consult.png)
+![Common Waiting Hall Proceeding to Consult](MEDICUBE/screenshots/Common%20waiting%20hall%20proceeding%20to%20consult.png)
 
 ### 3. Common Waiting Hall – Under Consultation
-![Common Waiting Hall Under Consultation](screenshots/Common%20waiting%20hall%20under%20consultation.png)
+![Common Waiting Hall Under Consultation](MEDICUBE/screenshots/Common%20waiting%20hall%20under%20consultation.png)
 
 ### 4. Front Desk Registration
-![Front Desk Registration](screenshots/Front%20desk%20Registration.png)
+![Front Desk Registration](MEDICUBE/screenshots/Front%20desk%20Registration.png)
 
 ### 5. Nurse Dashboard
-![Nurse Dashboard](screenshots/Nurse%20dashboard.png)
+![Nurse Dashboard](MEDICUBE/screenshots/Nurse%20dashboard.png)
 
 ### 6. Patient Kiosk – Checking Status
-![Patient Kiosk Checking Status](screenshots/Patient%20kiosk%20checking%20status.png)
+![Patient Kiosk Checking Status](MEDICUBE/screenshots/Patient%20kiosk%20checking%20status.png)
 
 ### 7. Patient Kiosk
-![Patient Kiosk](screenshots/Patient%20Kiosk.png)
+![Patient Kiosk](MEDICUBE/screenshots/Patient%20Kiosk.png)
 
 
 *Developed as a project to improve hospital queue management through intelligent technology.*

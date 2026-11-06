@@ -103,6 +103,28 @@ MediCube aims to make hospital queue management more organized, transparent and 
 **Domain:** Healthcare Technology | Machine Learning | Web Development  
 **Project Type:** Academic Project
 
----
+## Project Screenshots
+
+### 1. Analytics Dashboard
+![Analytics Dashboard](screenshots/Analytics%20Dashboard.png)
+
+### 2. Common Waiting Hall – Proceeding to Consult
+![Common Waiting Hall Proceeding to Consult](screenshots/Common%20waiting%20hall%20proceeding%20to%20consult.png)
+
+### 3. Common Waiting Hall – Under Consultation
+![Common Waiting Hall Under Consultation](screenshots/Common%20waiting%20hall%20under%20consultation.png)
+
+### 4. Front Desk Registration
+![Front Desk Registration](screenshots/Front%20desk%20Registration.png)
+
+### 5. Nurse Dashboard
+![Nurse Dashboard](screenshots/Nurse%20dashboard.png)
+
+### 6. Patient Kiosk – Checking Status
+![Patient Kiosk Checking Status](screenshots/Patient%20kiosk%20checking%20status.png)
+
+### 7. Patient Kiosk
+![Patient Kiosk](screenshots/Patient%20Kiosk.png)
+
 
 *Developed as a project to improve hospital queue management through intelligent technology.*

@@ -14,7 +14,7 @@ import {
   CartesianGrid,
 } from "recharts";
 
-const API_URL = "http://localhost:5000";
+const API_URL = "https://medicube.onrender.com";
 
 function Analytics() {
   const [analytics, setAnalytics] = useState(null);

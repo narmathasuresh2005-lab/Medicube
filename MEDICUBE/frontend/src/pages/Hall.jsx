@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import axios from "axios";
 import { io } from "socket.io-client";
 
-const API_URL = "http://localhost:5000";
+const API_URL = "https://medicube.onrender.com";
 
 function Hall() {
   const [currentToken, setCurrentToken] = useState(null);

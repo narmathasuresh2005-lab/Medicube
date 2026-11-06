@@ -5,7 +5,7 @@ import { io } from "socket.io-client";
 import { Link } from "react-router-dom";
 import "./NurseDashboard.css";
 
-const API_URL = "http://localhost:5000";
+const API_URL = "https://medicube.onrender.com";
 
 function NurseDashboard() {
   const [queue, setQueue] = useState([]);

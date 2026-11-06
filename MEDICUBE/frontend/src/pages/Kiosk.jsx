@@ -2,7 +2,7 @@
   import axios from "axios";
   import { io } from "socket.io-client";
 
-  const API_URL = "http://localhost:5000";
+  const API_URL = "https://medicube.onrender.com";
   const MAX_STALE_MINUTES = 8 * 60;
 
   const styles = {

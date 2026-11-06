@@ -3,7 +3,7 @@ import { useState } from "react";
 import axios from "axios";
 import "./FrontDesk.css";
 
-const API_URL = "http://localhost:5000";
+const API_URL = "https://medicube.onrender.com";
 
 export default function FrontDesk() {
   const [form, setForm] = useState({

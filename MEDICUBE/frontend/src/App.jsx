@@ -11,7 +11,7 @@ import SidebarLayout from "./components/SidebarLayout";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/Medicube">
       <Routes>
         <Route element={<SidebarLayout />}>
           <Route path="/" element={<Kiosk />} />
